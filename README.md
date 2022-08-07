@@ -39,7 +39,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript.js-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 
   
-### Studying in this moment:
+
+### Estudando neste momento:
 ![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
